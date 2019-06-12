@@ -7,7 +7,6 @@
 - [Introduction](#introduction)
 - [About the talk](#about-the-talk)
 - [ApprovalTests.cpp code samples](#approvaltestscpp-code-samples)
-- [Corrections](#corrections)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -36,6 +35,3 @@ Purpose of the sub-directories in this repo:
 * [gilded_rose_refactoring_kata/](gilded_rose_refactoring_kata)
     * A worked example of the [cpp version of Emily Bache's GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/cpp)
 
-## Corrections
-
-See [Corrections](Corrections.md).
