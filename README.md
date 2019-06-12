@@ -1,4 +1,4 @@
-# "Quickly Testing Legacy Code" at cppp2019
+# "Quickly Testing Legacy Code" at CPPP 2019
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -13,16 +13,16 @@
 
 ## Introduction
 
-Code samples and information for my talk "Quickly Testing Legacy Code" at [C++ on Sea 2019](https://cpponsea.uk/).
+Code samples and information for my talk "Quickly Testing Legacy Code" at [CPPP 2019](https://cppp.fr/).
 
 The samples here demonstrate use of [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp), which is a new C++ implementation of Llewellyn Falco's [Approval Tests](http://approvaltests.com/) approach to testing legacy code.
 
 ## About the talk
 
-* Abstract: [Quickly Testing Legacy Code](https://cpponsea.uk/sessions/quickly-testing-legacy-code.html)
-* Video: [YouTube](https://youtu.be/dtm8V3TIB6k)
-* Slides: [PowerPoint](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code)
-* Slides: [PDF](https://github.com/philsquared/cpponsea-slides/raw/master/2019/Clare%20Macrae%20-%20Quickly%20Testing%20Legacy%20Code.pdf)
+* Abstract: [Quickly Testing Legacy Code](https://cppp.fr/index.php?L=0&id=20#talk.ClareMacrae)
+* Video: 
+* Slides: 
+* Slides: 
 * Code: [Github](https://github.com/claremacrae/cppp2019) (here)
 
 ## ApprovalTests.cpp code samples
