@@ -1,4 +1,4 @@
-# "Quickly Testing Legacy Code" at cpponsea2019
+# "Quickly Testing Legacy Code" at cppp2019
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -23,7 +23,7 @@ The samples here demonstrate use of [ApprovalTests.cpp](https://github.com/appro
 * Video: [YouTube](https://youtu.be/dtm8V3TIB6k)
 * Slides: [PowerPoint](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code)
 * Slides: [PDF](https://github.com/philsquared/cpponsea-slides/raw/master/2019/Clare%20Macrae%20-%20Quickly%20Testing%20Legacy%20Code.pdf)
-* Code: [Github](https://github.com/claremacrae/cpponsea2019) (here)
+* Code: [Github](https://github.com/claremacrae/cppp2019) (here)
 
 ## ApprovalTests.cpp code samples
 

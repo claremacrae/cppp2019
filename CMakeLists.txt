@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 
-project(cpponsea2019)
+project(cppp2019)
 set(CMAKE_CXX_STANDARD 17)
 
 find_package(GTest)

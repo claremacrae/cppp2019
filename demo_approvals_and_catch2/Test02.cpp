@@ -65,12 +65,12 @@ TEST_CASE("TestFixedInput")
  * When an Approvals test fails, with catch as the testing framework, the output 
  * looks something like this:
  
-    ...cpponsea2019/demo_approvals_and_catch2/test02.cpp(5): FAILED:
+    ...cppp2019/demo_approvals_and_catch2/test02.cpp(5): FAILED:
     due to unexpected exception with message:
       Failed Approval:
       Received does not match approved
-      Received : ".../cpponsea2019/demo_approvals_and_catch2/Test02.TestFixedInput.received.txt"
-      Approved : ".../cpponsea2019/demo_approvals_and_catch2/Test02.TestFixedInput.approved.txt"
+      Received : ".../cppp2019/demo_approvals_and_catch2/Test02.TestFixedInput.received.txt"
+      Approved : ".../cppp2019/demo_approvals_and_catch2/Test02.TestFixedInput.approved.txt"
 
     ===============================================================================
     test cases: 2 | 1 passed | 1 failed

@@ -1,5 +1,5 @@
-#ifndef CPPONSEA2019_CONSOLEDIFFREPORTER_H
-#define CPPONSEA2019_CONSOLEDIFFREPORTER_H
+#ifndef CPPP2019_CONSOLEDIFFREPORTER_H
+#define CPPP2019_CONSOLEDIFFREPORTER_H
 
 #include "ApprovalTests.hpp"
 
@@ -15,4 +15,4 @@ public:
     explicit ConsoleDiffReporter(const DiffInfo& info) : CommandReporter(info.getProgramForOs(), &launcher) {};
 };
 
-#endif //CPPONSEA2019_CONSOLEDIFFREPORTER_H
+#endif //CPPP2019_CONSOLEDIFFREPORTER_H
