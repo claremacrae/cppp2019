@@ -21,7 +21,7 @@ The samples here demonstrate use of [ApprovalTests.cpp](https://github.com/appro
 * Abstract: [Quickly Testing Legacy Code](https://cppp.fr/index.php?L=0&id=20#talk.ClareMacrae)
 * Video: 
 * Slides: [PowerPoint](https://www.slideshare.net/ClareMacrae/quickly-testing-legacy-code-cpppfr-2019-clare-macrae)
-* Slides: 
+* Slides: [PDF](https://github.com/cppp-france/CPPP-19/tree/master/quickly_testing_legacy_code-Clare_Macrae) (including some more detailed slides that were hidden both in the talk and in the Powerpoint version above)
 * Code: [Github](https://github.com/claremacrae/cppp2019) (here)
 
 ## ApprovalTests.cpp code samples
